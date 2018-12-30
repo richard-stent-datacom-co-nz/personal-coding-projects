@@ -1,2 +1,2 @@
-# personal-coding-projects
-A respository to store Richard Stents personal coding projects
+# Coding-projects
+A respository to store Richard Stents work related coding projects
